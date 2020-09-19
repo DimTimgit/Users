@@ -1,0 +1,3 @@
+ /^([0-9a-zA-Z]([-.\w]*[0-9a-zA-Z])*@([0-9a-zA-Z][-\w]*[0-9a-zA-Z]\.)+[a-zA-Z]{2,9})$/
+
+mongooseServer Selection error: could not connect to any setvers in your mongodb atlas cluster. one common reason is that you're trying to access the database from an  IP that isn't whitelisted. make sure your current IP address is on your Atlas cluster's IP whitelist
